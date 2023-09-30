@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn programming and make it my life in the future
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @mefistim on X
 
 <!---
 Mefistim/Mefistim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
